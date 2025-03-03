@@ -10,12 +10,9 @@ During my internship at **Main Flow**, I worked on a **Data Science project** an
 - **Programming Languages:** C, Python, Java, C++  
 - **AI/ML Enthusiast**  
 - **Data Science & Analytics**  
-- **Software Development**  
 
 ## 📫 Connect with Me  
 Feel free to connect with me for collaborations, discussions, or project inquiries!  
 
 📩 **Email:** sberlinsamvel@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/s-berlin-samvel-pandian007
-
-#MainFlow #Task1 #DataScienceUsingPython #Python #MachineLearning #ArtificialIntelligence #DataScience  
