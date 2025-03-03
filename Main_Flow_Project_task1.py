@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-data = pd.read_csv('student/student-mat.csv', sep=';')
+data = pd.read_csv('student-mat.csv', sep=';')
 
 print(" The head of the dataset is: \n", data.head())
 
